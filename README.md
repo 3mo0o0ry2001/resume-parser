@@ -36,3 +36,33 @@ This tool automatically extracts and organizes the most relevant information fro
 ```bash
 git clone https://github.com/yourusername/resume-parser.git
 cd resume-parser
+
+pip install -r requirements.txt
+python -m spacy download en_core_web_trf
+
+streamlit run advanced_resume_parser.py
+🧠 Tech Stack
+Python 3.10+
+
+spaCy (Transformer-based NER)
+
+Streamlit (UI)
+
+PyMuPDF (PDF Parsing)
+
+Regex (Contact Extraction)
+
+Pandas (Dashboard Table)
+
+📦 Use Case Ideas
+Screening CVs during hiring sprints
+
+Building a candidate skill database
+
+Integrating with HR applicant tracking systems (ATS)
+
+Fast profiling for tech/non-tech roles
+
+📩 Contact
+Built by Omar Ayoub
+For hiring, feedback, or collaboration — please reach out at omarayoub.nlp@gmail.com
