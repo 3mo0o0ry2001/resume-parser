@@ -29,7 +29,7 @@ This tool automatically extracts and organizes the most relevant information fro
 
 
 ---
-🧠 Tech Stack
+#  🧠 Tech Stack
 Python 3.10+
 
 spaCy (Transformer-based NER)
@@ -42,7 +42,7 @@ Regex (Contact Extraction)
 
 Pandas (Dashboard Table)
 
-📦 Use Case Ideas
+#  📦 Use Case Ideas
 Screening CVs during hiring sprints
 
 Building a candidate skill database
