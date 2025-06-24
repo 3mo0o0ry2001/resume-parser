@@ -27,11 +27,6 @@ This tool automatically extracts and organizes the most relevant information fro
 ✅ Works 100% offline — your data stays private  
 ✅ Built using `spaCy`, `PyMuPDF`, `Streamlit`
 
----
-
-## 🖼️ Demo Screenshot
-
-![screenshot](https://yourdomain.com/path-to-screenshot.png) <!-- Add your actual image URL or remove if none -->
 
 ---
 
