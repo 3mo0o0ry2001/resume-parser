@@ -29,18 +29,6 @@ This tool automatically extracts and organizes the most relevant information fro
 
 
 ---
-
-## 🚀 How to Run It Locally
-
-1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/resume-parser.git
-cd resume-parser
-
-pip install -r requirements.txt
-python -m spacy download en_core_web_trf
-
-streamlit run advanced_resume_parser.py
 🧠 Tech Stack
 Python 3.10+
 
@@ -66,3 +54,16 @@ Fast profiling for tech/non-tech roles
 📩 Contact
 Built by Omar Ayoub
 For hiring, feedback, or collaboration — please reach out at omarayoub.nlp@gmail.com
+---
+
+## 🚀 How to Run It Locally
+
+1. Clone the repository  
+```bash
+git clone https://github.com/yourusername/resume-parser.git
+cd resume-parser
+
+pip install -r requirements.txt
+python -m spacy download en_core_web_trf
+
+streamlit run advanced_resume_parser.py 
